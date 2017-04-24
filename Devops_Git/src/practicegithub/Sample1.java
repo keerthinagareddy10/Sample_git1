@@ -9,6 +9,8 @@ public class Sample1 {
 		// TODO Auto-generated method stub
 		System.out.println("Creating sample code for version 1");
 		System.out.println("Sample code version 1");
+		System.out.println("Changing sample code for version2");
+		System.out.println("Sample code version 2");
 	}
 
 }
